@@ -1,0 +1,2 @@
+patient_id,age,gender,polyuria,polydipsia,sudden_weight_loss,weakness,polyphagia,genital_thrush,visual_blurring,itching,irritability,delayed_healing,partial_paresis,muscle_stiffness,alopecia,obesity,target,risk_probability,risk_category,prediction,record_type,evaluation_partition,fasting_glucose_mg_dl,glucose_reference_level,diabetes_level
+P-20261009-154554-ED72BA3F,24,female,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,0.17992572463768114,Low,Negative,New assessment,New assessment (unlabeled),188.4,Diabetes,Diabetes

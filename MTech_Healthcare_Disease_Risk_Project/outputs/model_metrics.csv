@@ -1,0 +1,4 @@
+Model,CV_ROC_AUC_Mean,CV_ROC_AUC_Std,Accuracy,Precision,Recall,F1,ROC_AUC,Specificity,Brier_Score,True_Negative,False_Positive,False_Negative,True_Positive,Best_Params
+Random_Forest,0.9685213989441932,0.03442017536546728,0.9326923076923077,0.9830508474576272,0.90625,0.943089430894309,0.9734375,0.975,0.06627723941067817,39,1,6,58,"{'model__max_depth': 10, 'model__min_samples_leaf': 1, 'model__n_estimators': 200}"
+XGBoost,0.9651065233785822,0.032416185093274735,0.9230769230769231,0.9827586206896551,0.890625,0.9344262295081968,0.9695312500000001,0.975,0.06898270547389984,39,1,7,57,"{'model__colsample_bytree': 0.8, 'model__learning_rate': 0.1, 'model__max_depth': 4, 'model__n_estimators': 250, 'model__subsample': 0.8}"
+Logistic_Regression,0.9474476809954752,0.046917590097780834,0.8461538461538461,1.0,0.75,0.8571428571428571,0.970703125,1.0,0.09136643283931226,40,0,16,48,{'model__C': 0.1}

@@ -1,0 +1,16 @@
+DATA QUALITY SUMMARY
+====================
+Source file: diabetes_data_upload.csv
+Rows: 520
+Predictor columns: 16
+Missing predictor/target cells: 0
+Rows with at least one missing value: 0
+Duplicate predictor rows: 269
+Duplicate predictor groups with conflicting targets: 0
+Age range: 16 to 90; missing/non-numeric ages: 0.
+Target distribution:
+  Negative: 200 (38.5%)
+  Positive: 320 (61.5%)
+
+Duplicate patient records can make random train/test metrics optimistic;
+interpret the scores with this limitation in mind.

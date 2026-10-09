@@ -1,0 +1,28 @@
+{
+  "best_model_selected_by": "mean stratified 5-fold CV ROC-AUC on training data",
+  "best_model": "Random_Forest",
+  "split_strategy": "StratifiedGroupKFold by identical predictor profile",
+  "random_state": 42,
+  "target_test_fraction": 0.2,
+  "actual_test_fraction": 0.2,
+  "decision_threshold": 0.5,
+  "dataset_rows": 520,
+  "training_rows": 416,
+  "test_rows": 104,
+  "unique_predictor_profiles": 251,
+  "test_predictor_profiles": 49,
+  "positive_rate": 0.6153846153846154,
+  "test_roc_auc": 0.9734375,
+  "test_roc_auc_bootstrap_95pct_ci": [
+    0.8775740262321144,
+    1.0
+  ],
+  "test_brier_score": 0.06627723941067817,
+  "python_packages": {
+    "pandas": "3.0.6",
+    "scikit_learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "shap": "0.52.0"
+  },
+  "generated_at_utc": "2026-10-09T10:14:25.275527+00:00"
+}

@@ -1,0 +1,17 @@
+polyuria,polydipsia,sudden_weight_loss,weakness,patients,positive_rate_pct
+no,yes,yes,no,5,100.0
+yes,no,yes,no,14,100.0
+yes,yes,no,no,17,100.0
+yes,yes,no,yes,45,100.0
+yes,yes,yes,no,21,100.0
+yes,yes,yes,yes,110,100.0
+no,yes,no,yes,11,90.91
+yes,no,yes,yes,20,80.0
+no,yes,yes,yes,13,76.92
+yes,no,no,yes,10,70.0
+no,yes,no,no,11,63.64
+yes,no,no,no,21,61.9
+no,no,yes,yes,20,60.0
+no,no,no,no,112,22.32
+no,no,no,yes,76,10.53
+no,no,yes,no,14,0.0
